@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Taiyaba Akhtar</h1>
 <h3 align="center">A tech enthusiast with a wholesome of curiosity</h3>
 
